@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mish26&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mish26&theme=dark)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
