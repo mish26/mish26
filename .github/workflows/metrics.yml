@@ -20,7 +20,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.reactions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 100
