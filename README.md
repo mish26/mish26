@@ -30,39 +30,57 @@ Here are some ideas to get you started:
 ![Metrics](https://github.com/mish26/mish26/blob/main/metrics.plugin.reactions.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-269-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42%20Thousand%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 740 Contributions in the Year 2022
+> 🏆 761 Contributions in the Year 2022
  > 
-> 📦 1.2 kB Used in GitHub's Storage 
+> 📦 1.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-🌆 Daytime    158 commits    ███████████░░░░░░░░░░░░░░   47.31% 
-🌃 Evening    131 commits    █████████░░░░░░░░░░░░░░░░   39.22% 
+🌞 Morning    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
+🌆 Daytime    158 commits    ███████████░░░░░░░░░░░░░░   45.53% 
+🌃 Evening    144 commits    ██████████░░░░░░░░░░░░░░░   41.5% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Tuesday      57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Wednesday    73 commits     █████░░░░░░░░░░░░░░░░░░░░   21.86% 
-Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.96% 
-Friday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
-Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
+Monday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
+Tuesday      57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
+Wednesday    73 commits     █████░░░░░░░░░░░░░░░░░░░░   21.04% 
+Thursday     83 commits     ██████░░░░░░░░░░░░░░░░░░░   23.92% 
+Friday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
+Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
+Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
 
 ```
 
- Last Updated on 04/05/2022 13:46:49 UTC
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 05/05/2022 14:20:33 UTC
 <!--END_SECTION:waka-->
