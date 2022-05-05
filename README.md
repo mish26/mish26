@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -23,9 +25,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mish26&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+<!-- ![Metrics](https://metrics.lecoq.io/mish26) -->
+![Metrics](https://github.com/mish26/mish26/blob/main/metrics.plugin.reactions.svg)
 
+<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 🏆 740 Contributions in the Year 2022
@@ -59,43 +62,6 @@ Saturday     3 commits      ░░░░░░░░░░░░░░░░░�
 Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Shell                    6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Go                       4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/mish26/mish26/main/charts/bar_graph.png) 
-
 
  Last Updated on 04/05/2022 13:46:49 UTC
 <!--END_SECTION:waka-->
