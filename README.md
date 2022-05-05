@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+[![](https://komarev.com/ghpvc/?username=mish26&color=000000)](https://github.com/mish26)
+[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
 
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
