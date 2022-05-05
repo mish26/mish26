@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/var_mish_run)
-
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mish26/mish26/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -79,7 +77,6 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 ```
-
 
  Last Updated on 05/05/2022 14:20:33 UTC
 <!--END_SECTION:waka-->
