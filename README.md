@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Metrics](https://github.com/mish26/mish26/blob/main/metrics.plugin.reactions.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-309-blue)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 776 Contributions in the Year 2022
+> 🏆 778 Contributions in the Year 2022
  > 
 > 📦 1.4 kB Used in GitHub's Storage 
  > 
@@ -79,5 +79,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/05/2022 02:04:53 UTC
+ Last Updated on 12/05/2022 02:06:17 UTC
 <!--END_SECTION:waka-->
